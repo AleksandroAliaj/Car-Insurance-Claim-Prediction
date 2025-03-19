@@ -3,7 +3,7 @@ Predict whether the policyholder will file a claim in the next 6 months or not.
 
 Training exercise on the dataset:https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification
 
-## 🎯 Notebook Detailed Analysis
+## 🎯 Notebook Analysis
 
 ### 1️⃣ Importing Libraries and Data
 - **Objective**: Prepare the work environment.
